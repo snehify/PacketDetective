@@ -24,4 +24,3 @@ javac GenerateTestPcap.java
 java GenerateTestPcap ..\testdata\generated_test.pcap
 ```
 
-Note: the original `dpi_engine` executable was not copied because it is a compiled non-Java binary. The Java DPI implementation is a conversion, so behavior may not be identical to the original C++ implementation.
