@@ -181,8 +181,6 @@ Potential enhancements include:
 
 ## 👩‍💻 Author
 
-**Sneha Shaw**
-
 - GitHub: [@snehify](https://github.com/snehify)
 - LinkedIn: [snehacodes](https://www.linkedin.com/in/snehacodes/)
 
