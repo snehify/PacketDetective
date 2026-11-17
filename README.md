@@ -186,4 +186,4 @@ Potential enhancements include:
 
 ---
 
-⭐ If you find this project interesting, consider starring the repository.
+⭐ If you find this project interesting, consider starring the repository!
